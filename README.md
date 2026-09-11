@@ -19,3 +19,9 @@ Proyecto-final/
     └── styles.css
 
 > Este proyecto fue desarrollado como práctica de Git y GitHub.
+
+
+
+### Última actualización
+
+Se mejoró la documentación del proyecto para facilitar su comprensión y presentación.
