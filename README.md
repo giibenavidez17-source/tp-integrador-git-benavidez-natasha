@@ -17,3 +17,5 @@ Proyecto-final/
 └── proyecto/
     ├── index.html
     └── styles.css
+
+> Este proyecto fue desarrollado como práctica de Git y GitHub.
