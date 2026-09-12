@@ -25,3 +25,19 @@ Proyecto-final/
 ### Última actualización
 
 Se mejoró la documentación del proyecto para facilitar su comprensión y presentación.
+
+> Este proyecto fue desarrollado como práctica de Git y GitHub.
+
+## Autor
+
+Nombre y apellido: Natasha Gisella Anahi Benavidez Ibañez
+
+## Estado del proyecto
+
+En desarrollo.
+
+El proyecto se encuentra en proceso de actualización y documentación como parte del Trabajo Práctico Integrador de Git y GitHub.
+
+### Última actualización
+
+Se mejoró la documentación del proyecto para facilitar su comprensión y presentación.
