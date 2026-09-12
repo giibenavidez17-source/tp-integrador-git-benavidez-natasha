@@ -1,16 +1,16 @@
-# Entrega del Trabajo Práctico Integrador
+# Entrega del Trabajo Práctico Final Integrador
 
 ## Datos del participante
 
-- Nombre y apellido: [Completar]
-- Curso: [Completar]
-- Fecha de entrega: [Completar]
+- Nombre y apellido: Natasha Gisella Anahi Benavidez Ibañez
+- Curso: Introducción a Git y GitHub para la gestión de proyectos digitales
+- Fecha de entrega: 09/09/2026
 
 ## Enlaces
 
-- Repositorio de GitHub: [Completar]
-- Issue: [Completar]
-- Pull request: [Completar]
+- Repositorio de GitHub: https://github.com/giibenavidez17-source/tp-integrador-git-benavidez-natasha
+- Issue: https://github.com/giibenavidez17-source/tp-integrador-git-benavidez-natasha/issues/1
+- Pull request: https://github.com/giibenavidez17-source/tp-integrador-git-benavidez-natasha/pull/2
 
 ## Comandos principales utilizados
 
@@ -33,8 +33,8 @@ Se creó un repositorio local utilizando Git y se agregó la estructura inicial 
 Luego se incorporaron los archivos HTML y CSS para crear una página web dedicada a Lali Espósito.
 Se realizaron diferentes commits para registrar los cambios realizados durante el desarrollo.
 También se creó documentación mediante los archivos README.md y ENTREGA.md.
-Posteriormente se publicará el repositorio en GitHub y se trabajará con ramas, issues y pull requests.
-El objetivo es aplicar los principales comandos y conceptos aprendidos durante la capacitación.
+Posteriormente se publicó el repositorio en GitHub y se trabajó con ramas, issues y pull requests.
+Finalmente, se fusionó la rama de mejora con la rama principal y se sincronizaron los cambios mediante git pull.
 
 ## Dificultades encontradas
 
